@@ -1,14 +1,11 @@
-# Documentación del Proyecto
+# Poryecto de Ingeniería**
+---
 
-Bienvenido 👋  
-Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
+José Ismael Guerrero Román
 
 ---
 
-## Empezar rápido (3 pasos)
+Bienvenido 
+Esta es mi página de la materia de Proyecto de Ingeniería, en la cual, subiré mis trabajos, tareas y progreso de manera semanal.
 
-1. **Edita el nombre del sitio** en `mkdocs.yml`:
-   ```yaml
-   site_name: Documentación del Curso
-   theme:
-     name: material
+---
