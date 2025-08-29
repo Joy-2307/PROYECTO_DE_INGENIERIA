@@ -7,6 +7,9 @@
   
 ---
 ## Semana 1.
+
+[Syllabus (PDF)](recursos/archivos/Syllabus.pdf)
+
 ---
 
 ---
