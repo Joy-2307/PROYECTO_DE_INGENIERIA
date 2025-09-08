@@ -6,12 +6,16 @@
 - Este apartado mostrará mis trabajos realizados a lo largo de las semanas.
   
 ---
-## Semana 1.
+# Semana 1.
+---
+## Syllabus Firmado
 
 [Syllabus (PDF)](recursos/archivos/Syllabus.pdf)
+
 ---
-Tarea 1, primer sólido 3D
-[Tarea_1 (SLDPRT)](recursos/archivos/Tarea 1.SLDPRT)
+
+# Tarea 1, primer sólido 3D
+[Tarea_1 (SLDPRT)](recursos/archivos/Tarea1.SLDPRT)
 
 ---
 
