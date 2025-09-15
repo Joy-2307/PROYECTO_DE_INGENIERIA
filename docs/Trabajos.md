@@ -29,7 +29,7 @@ Cada material compartido busca reflejar no solo la práctica técnica, sino tamb
 
 ## Resultado de la Práctica 
 
-[Tarea_1 (SLDPRT)](recursos/archivos/Tarea1.SLDPRT)
+[soporte_para_celular](recursos/imgs/trabajo1.jpg)
 
 En esta práctica se trabajó con una lámina de madera para poner en práctica diferentes procesos de corte, perforado y lijado, con el propósito de elaborar un soporte para celular completamente funcional. La actividad permitió aplicar de manera integral los conocimientos adquiridos sobre el uso de la maquinaria, desde la precisión en el corte hasta el acabado en la superficie, garantizando resistencia y estética en el producto final.
 
