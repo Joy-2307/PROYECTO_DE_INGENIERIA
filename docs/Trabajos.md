@@ -60,7 +60,7 @@ El resultado obtenido refleja no solo el cumplimiento de los objetivos planteado
 
 Realizar 3 macetas diferentes 
 
-[Maceta_1 (SLDPRT)](recursos/archivos/maceta_1.SLDPRT)
+[Maceta_1 (SLDPRT)](recursos/archivos/maceta1.SLDPRT)
 
 [Maceta_2 (SLDPRT)](recursos/archivos/maceta2.SLDPRT)
 
