@@ -20,6 +20,10 @@
 
 ---
 
+# Semana 2
+
+---
+
 ## Primera Práctica con Máquinas en el IDIT
 
 [Videos y fotos de Práctica](https://iberopuebla-my.sharepoint.com/:f:/g/personal/203563_iberopuebla_mx/Ep8vzFByT9BBv8lYolmQwG4BLk0pOx4-HzmitzzGhByD8Q?e=fwkn7B)
@@ -35,6 +39,21 @@ En esta práctica se trabajó con una lámina de madera para poner en práctica 
 
 El resultado obtenido refleja no solo el cumplimiento de los objetivos planteados, sino también el avance en el manejo de herramientas y técnicas que son fundamentales para el trabajo en madera. Este ejercicio constituye un ejemplo claro de cómo la práctica constante se traduce en habilidades útiles y aplicables en la elaboración de proyectos prácticos y funcionales.
 
+
+---
+
+# Semana 3
+
+---
+## Tarea 2
+
+Realizar 3 macetas diferentes 
+
+[Tarea_2 (SLDPRT)](recursos/archivos/maceta1.SLDPRT)
+
+[Tarea_2 (SLDPRT)](recursos/archivos/maceta2.SLDPRT)
+
+[Tarea_2 (SLDPRT)](recursos/archivos/maceta3.SLDPRT)
 
 ---
 # Proyecto final.
