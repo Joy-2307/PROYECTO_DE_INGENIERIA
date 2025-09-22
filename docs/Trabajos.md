@@ -45,6 +45,17 @@ El resultado obtenido refleja no solo el cumplimiento de los objetivos planteado
 # Semana 3
 
 ---
+## Ejercicios 2 y 5
+[Ejercicio_2 (SLDPRT)](recursos/archivos/Ejercicio2.SLDPRT)
+
+[Ejercicio_5 (SLDPRT)](recursos/archivos/Ejercicio5.SLDPRT)
+
+---
+## Florero
+[Florero (SLDPRT)](recursos/archivos/Florero.SLDPRT)
+
+---
+
 ## Tarea 2
 
 Realizar 3 macetas diferentes 
