@@ -44,7 +44,7 @@ Cada material compartido busca reflejar no solo la práctica técnica, sino tamb
 
 ## Resultado de la Práctica 
 
-<img src="../recursos/imgs/Joy.jpg" alt="Foto_Joy" width="200">
+<img src="../recursos/imgs/trabajo1.jpg" alt="Trabajo_1" width="200">
 
 
 En esta práctica se trabajó con una lámina de madera para poner en práctica diferentes procesos de corte, perforado y lijado, con el propósito de elaborar un soporte para celular completamente funcional. La actividad permitió aplicar de manera integral los conocimientos adquiridos sobre el uso de la maquinaria, desde la precisión en el corte hasta el acabado en la superficie, garantizando resistencia y estética en el producto final.
