@@ -61,6 +61,8 @@ El resultado obtenido refleja no solo el cumplimiento de los objetivos planteado
 ---
 ## Ejercicios 2 y 5
 
+Ejercicios realizados en clase.
+
 <img src="../recursos/imgs/ejercicio2.png" alt="Ejercicio_2" width="200">
 
 [Ejercicio_2 (SLDPRT)](recursos/archivos/Ejercicio2.SLDPRT)
@@ -72,9 +74,9 @@ El resultado obtenido refleja no solo el cumplimiento de los objetivos planteado
 ---
 ## Florero
 
-<img src="../recursos/imgs/florero.png" alt="Florero" width="200">
-
 Florero con función de recubrir en SolidWorks.
+
+<img src="../recursos/imgs/florero.png" alt="Florero" width="200">
 
 [Florero (SLDPRT)](recursos/archivos/Florero.SLDPRT)
 
