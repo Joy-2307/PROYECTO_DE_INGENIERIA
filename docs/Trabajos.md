@@ -9,12 +9,10 @@
 # Semana 1.
 ---
 ## Syllabus Firmado
-
-<object data="recursos/archivos/Syllabus.pdf" type="application/pdf" width="100%" height="600">
-  <p>No se pudo mostrar el PDF. <a href="/recursos/archivos/syllabus1pdf">Descargar</a></p>
-</object>
-
 Syllabus firmado en pdf.
+
+<img src="../recursos/imgs/syllabus.png" alt="Syllabus" width="200">
+
 [Syllabus (PDF)](recursos/archivos/Syllabus.pdf)
 
 ---
