@@ -36,7 +36,10 @@ Primer solido 3D en SolidWorks.
 
 ## Primera Práctica con Máquinas en el IDIT
 
-<img src="../recursos/imgs/Joy.jpg" alt="Foto_Joy" width="200">
+<img src="../recursos/imgs/maquina1" alt="Maquinas1" width="200">
+<img src="../recursos/imgs/maquina2" alt="Maquinas"2 width="200">
+<img src="../recursos/imgs/maquina3" alt="Maquinas3" width="200">
+<img src="../recursos/imgs/maquina4" alt="Maquinas4" width="200">
 
 En esta sección se presentan una serie de videos y fotografías que documentan mi progreso en el aprendizaje y dominio del funcionamiento de diferentes tipos de maquinaria. El objetivo principal es mostrar de manera clara y visual cómo he ido desarrollando mis conocimientos y habilidades tanto en el uso de herramientas para el corte de madera como en el manejo de equipos destinados al corte de metal.
 Cada material compartido busca reflejar no solo la práctica técnica, sino también la comprensión de los procesos de operación, seguridad y mantenimiento que acompañan a estas máquinas. De esta forma, el registro no solo constituye una evidencia de avance personal, sino también un recurso que puede servir como referencia para quienes se inicien en este campo o deseen observar de forma progresiva la manera en que se adquieren y perfeccionan competencias en el trabajo con maquinaria especializada.
