@@ -10,17 +10,18 @@
 ---
 ## Syllabus Firmado
 
-[Syllabus (PDF)](recursos/archivos/Syllabus.pdf)
-<img src="../recursos/imgs/Joy.jpg" alt="Foto_Joy" width="200">
+<object data="recursos/archivos/Syllabus.pdf" type="application/pdf" width="100%" height="600">
+  <p>No se pudo mostrar el PDF. <a href="/recursos/archivos/syllabus1pdf">Descargar</a></p>
+</object>
 
 Syllabus firmado en pdf.
-
+[Syllabus (PDF)](recursos/archivos/Syllabus.pdf)
 
 ---
 
 ## Tarea 1, primer sólido 3D
 
-<img src="../recursos/imgs/Joy.jpg" alt="Foto_Joy" width="200">
+<img src="../recursos/imgs/tarea1" alt="Tarea_1" width="200">
 
 Primer solido 3D en SolidWorks.
 
@@ -60,18 +61,18 @@ El resultado obtenido refleja no solo el cumplimiento de los objetivos planteado
 ---
 ## Ejercicios 2 y 5
 
-<img src="../recursos/imgs/Joy.jpg" alt="Foto_Joy" width="200">
+<img src="../recursos/imgs/ejercicio2.png" alt="Ejercicio_2" width="200">
 
 [Ejercicio_2 (SLDPRT)](recursos/archivos/Ejercicio2.SLDPRT)
 
-<img src="../recursos/imgs/Joy.jpg" alt="Foto_Joy" width="200">
+<img src="../recursos/imgs/ejercicio5.png" alt="Ejercicio_5" width="200">
 
 [Ejercicio_5 (SLDPRT)](recursos/archivos/Ejercicio5.SLDPRT)
 
 ---
 ## Florero
 
-<img src="../recursos/imgs/Joy.jpg" alt="Foto_Joy" width="200">
+<img src="../recursos/imgs/florero.png" alt="Florero" width="200">
 
 Florero con función de recubrir en SolidWorks.
 
@@ -83,15 +84,15 @@ Florero con función de recubrir en SolidWorks.
 
 Realizar 3 macetas diferentes usando las herramientas antes vistas en SolidWorks.
 
-<img src="../recursos/imgs/Joy.jpg" alt="Foto_Joy" width="200">
+<img src="../recursos/imgs/maceta1.png" alt="Maceta_1" width="200">
 
 [Maceta_1 (SLDPRT)](recursos/archivos/maceta1.SLDPRT)
 
-<img src="../recursos/imgs/Joy.jpg" alt="Foto_Joy" width="200">
+<img src="../recursos/imgs/maceta2.png" alt="Maceta_2" width="200">
 
 [Maceta_2 (SLDPRT)](recursos/archivos/maceta2.SLDPRT)
 
-<img src="../recursos/imgs/Joy.jpg" alt="Foto_Joy" width="200">
+<img src="../recursos/imgs/maceta3.png" alt="Maceta_3" width="200">
 
 [Maceta_3 (SLDPRT)](recursos/archivos/maceta3.SLDPRT)
 
