@@ -111,7 +111,7 @@ Realizar el trazado de un logo para grabarlo en Láser.
 
 <img src="../recursos/imgs/logo.png" alt="Logo" width="200">
 
-[Logo (DXF)](recursos/archivos/maceta3.SLDPRT)
+[Logo (DXF)](recursos/archivos/Logocel.DXF)
 
 ---
 # Proyecto final.
