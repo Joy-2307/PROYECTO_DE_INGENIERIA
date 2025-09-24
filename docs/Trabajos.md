@@ -17,6 +17,10 @@ Syllabus firmado en pdf.
 
 ---
 
+# Semana 2
+
+---
+
 ## Tarea 1, primer sólido 3D
 
 Primer solido 3D en SolidWorks.
@@ -27,7 +31,7 @@ Primer solido 3D en SolidWorks.
 
 ---
 
-# Semana 2
+# Semana 3
 
 ---
 
@@ -43,6 +47,8 @@ Cada material compartido busca reflejar no solo la práctica técnica, sino tamb
 
 [Videos y fotos de Práctica](https://iberopuebla-my.sharepoint.com/:f:/g/personal/203563_iberopuebla_mx/Ep8vzFByT9BBv8lYolmQwG4BLk0pOx4-HzmitzzGhByD8Q?e=fwkn7B)
 
+---
+
 ## Resultado de la Práctica 
 
 <img src="../recursos/imgs/trabajo1.jpg" alt="Trabajo_1" width="200">
@@ -56,7 +62,7 @@ El resultado obtenido refleja no solo el cumplimiento de los objetivos planteado
 
 ---
 
-# Semana 3
+# Semana 4
 
 ---
 ## Ejercicios 2 y 5
@@ -97,6 +103,15 @@ Realizar 3 macetas diferentes usando las herramientas antes vistas en SolidWorks
 <img src="../recursos/imgs/maceta3.png" alt="Maceta_3" width="200">
 
 [Maceta_3 (SLDPRT)](recursos/archivos/maceta3.SLDPRT)
+
+---
+ ## Tarea 3
+
+Realizar el trazado de un logo para grabarlo en Láser.
+
+<img src="../recursos/imgs/logo.png" alt="Logo" width="200">
+
+[Logo (DXF)](recursos/archivos/maceta3.SLDPRT)
 
 ---
 # Proyecto final.
