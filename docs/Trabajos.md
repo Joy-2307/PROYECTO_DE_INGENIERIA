@@ -105,7 +105,8 @@ Realizar 3 macetas diferentes usando las herramientas antes vistas en SolidWorks
 [Maceta_3 (SLDPRT)](recursos/archivos/maceta3.SLDPRT)
 
 ---
- ## Tarea 3
+
+## Tarea 3
 
 Realizar el trazado de un logo para grabarlo en Láser.
 
