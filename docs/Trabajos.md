@@ -20,6 +20,7 @@ Syllabus firmado en pdf.
 ## Tarea 1, primer sólido 3D
 
 Primer solido 3D en SolidWorks.
+
 <img src="../recursos/imgs/tarea1.png" alt="tarea_1" width="200">
 
 [Tarea_1 (SLDPRT)](recursos/archivos/Tarea1.SLDPRT)
