@@ -115,5 +115,33 @@ Realizar el trazado de un logo para grabarlo en Láser.
 [Logo (DXF)](recursos/archivos/Logocel.DXF)
 
 ---
+
+# Semana 5
+
+---
+
+## aprendiendo a usar la láser
+
+<img src="../recursos/imgs/láseer1.jpg" alt="Láser1" width="200">
+<img src="../recursos/imgs/láseer2.jpg" alt="Láser2" width="200">
+<img src="../recursos/imgs/láseer3.jpg" alt="Láser3" width="200">
+
+[Videos y fotos de Práctica](https://iberopuebla-my.sharepoint.com/:f:/g/personal/203563_iberopuebla_mx/Et1bZMslXlZDtDWfIONQtEIBER_9JEzdp8J4uTUvhxBCuA?e=76hREg)
+
+Durante esta práctica aprendí a utilizar la cortadora láser CNC trabajando con MDF de 3 mm; comencé con el diseño digital de la pieza, configuré los parámetros de corte y preparé el material en la máquina. Apliqué las medidas de seguridad necesarias y entendí la importancia de ajustar adecuadamente la potencia y la velocidad para obtener cortes limpios y precisos. Como resultado, logré fabricar correctamente el diseño que había planeado.
+
+---
+
+## Tarea: Grabado en láser y cortado en láser por nuestra cuenta 
+
+---
+
+Durante está tarea se corto en mdf un diseño que nosotros elegimos y guardamos en formato .DXF, ademas de en nuestro porta celular, anteriormente creado, grabamos el logo de nuestra tarea anterior
+
+<img src="../recursos/imgs/grabado.jpg" alt="Grabado" width="200">
+<img src="../recursos/imgs/portacontrol.jpg" alt="Porta controles" width="200">
+[Diseño (DXF)](recursos/archivos/Portacontroles.DXF)
+
+
 # Proyecto final.
 ---
