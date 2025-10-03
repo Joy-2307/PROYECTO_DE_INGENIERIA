@@ -122,9 +122,9 @@ Realizar el trazado de un logo para grabarlo en Láser.
 
 ## aprendiendo a usar la láser
 
-<img src="../recursos/imgs/láseer1.jpg" alt="Láser1" width="200">
-<img src="../recursos/imgs/láseer2.jpg" alt="Láser2" width="200">
-<img src="../recursos/imgs/láseer3.jpg" alt="Láser3" width="200">
+<img src="../recursos/imgs/láser1.jpg" alt="Láser1" width="200">
+<img src="../recursos/imgs/láser2.jpg" alt="Láser2" width="200">
+<img src="../recursos/imgs/láser3.jpg" alt="Láser3" width="200">
 
 [Videos y fotos de Práctica](https://iberopuebla-my.sharepoint.com/:f:/g/personal/203563_iberopuebla_mx/Et1bZMslXlZDtDWfIONQtEIBER_9JEzdp8J4uTUvhxBCuA?e=76hREg)
 
