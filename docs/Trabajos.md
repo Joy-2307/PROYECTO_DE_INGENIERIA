@@ -140,7 +140,8 @@ Durante está tarea se corto en mdf un diseño que nosotros elegimos y guardamos
 
 <img src="../recursos/imgs/grabado.jpg" alt="Grabado" width="200">
 <img src="../recursos/imgs/portacontrol.jpg" alt="Porta controles" width="200">
-[Diseño (DXF)](recursos/archivos/Portacontroles.DXF)
+
+[Diseño (DXF)](recursos/archivos/portacontroles.DXF)
 
 
 # Proyecto final.
