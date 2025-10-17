@@ -143,6 +143,13 @@ Durante está tarea se corto en mdf un diseño que nosotros elegimos y guardamos
 
 [Diseño (DXF)](recursos/archivos/portacontroles.DXF)
 
+---
 
+# semana 6
+
+---
+# impresión 3D con Impresora creality
+---
+Comenzamos, pensando en un diseño 3D, de algo que no se pudiera hacer utilizando alguna otra maquina de fabricación digital
 # Proyecto final.
 ---
