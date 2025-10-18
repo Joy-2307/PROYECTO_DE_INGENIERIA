@@ -162,7 +162,7 @@ Diseño en .stl
 
 ---
 Resultado 
-<img src="../recursos/imgs/portaherramientas.jpg" alt="Porta_Herramientas" width="200">
+<img src="../recursos/imgs/porta_herramientas.jpg" alt="Porta_Herramientas" width="200">
 
 # Proyecto final.
 ---
