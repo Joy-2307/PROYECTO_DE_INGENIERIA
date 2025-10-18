@@ -167,6 +167,13 @@ Resultado
 <img src="../recursos/imgs/porta_herramientas.jpg" alt="Porta_Herramientas" width="200">
 
 ---
+## Tomando un curso de Fabricación Digital
+Consistio en tomar en linea un curso acerca de fabricación diguital, para poder contar con mayor conocimiento.
+
+<img src="../recursos/imgs/fabricacion_digital" alt="Fabricación_Digital_Curso" width="200">
+
+---
+
 
 # Semana7
 ---
@@ -187,6 +194,14 @@ Resultado
 <img src="../recursos/imgs/personaje.jpg" alt="Personaje" width="200">
 
 <img src="../recursos/imgs/personaje2.jpg" alt="Personaje" width="200">
+
+---
+# semana 8
+---
+## Práctica 2 en el Idit 
+---
+Durante esta práctica en el Idit, aprendimos a utilizar las principales mauinas y herramientas usadas en la industria cuando se trabaja con lámina, en este caso se trabajó con lámina de acero negro de calibre 22, el resultado de está practica fue aprender el uso correcto de las herramientas (equipo de seguridad, nivelador, tijeras para lámina) y de las máquinas, asi commo replicar de un plano, una pieza hecha con lámina.
+
 
 ---
 
