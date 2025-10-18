@@ -177,9 +177,9 @@ Imagen generada porr gemini de mi personaje animado.
 <img src="../recursos/imgs/personajeia.jpg" alt="Personaje_gemini" width="200">
 
 ---
-Archivo en .STL .
+Archivo en .gcode .
 
-[Porta_herramientas (STL)](recursos/archivos/tarea2def.STL)
+[Pinguino (gcode)](recursos/archivos/pinguino.gcode)
 
 ---
 Resultado 
