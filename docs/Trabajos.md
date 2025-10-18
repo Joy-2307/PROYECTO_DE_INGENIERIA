@@ -158,10 +158,12 @@ Diseño en solidworks.
 
 ---
 Diseño en .stl
+
 [Porta_herramientas (STL)](recursos/archivos/tarea2def.STL)
 
 ---
 Resultado 
+
 <img src="../recursos/imgs/porta_herramientas.jpg" alt="Porta_Herramientas" width="200">
 
 # Proyecto final.
