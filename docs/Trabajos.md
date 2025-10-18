@@ -148,7 +148,7 @@ Durante está tarea se corto en mdf un diseño que nosotros elegimos y guardamos
 # semana 6
 
 ---
-# impresión 3D con Impresora creality
+## impresión 3D con Impresora creality
 ---
 Comenzamos, pensando en un diseño 3D, de algo que no se pudiera hacer utilizando alguna otra maquina de fabricación digital, por lo tanto diseñe un portaherramientas (desarmadores y pinzas de punta) para mis clases de electrónica.
 
@@ -165,6 +165,30 @@ Diseño en .stl
 Resultado 
 
 <img src="../recursos/imgs/porta_herramientas.jpg" alt="Porta_Herramientas" width="200">
+
+---
+
+# Semana7
+---
+En esta semana, con ayuda de Gemini, le pedimos que generara la imagen animada de un personaje que nosotros quisieramos, sin fondo, para despues con ayuda de la plataforma Tripo 3D, cargar la imagen y asi poder convertir nuestro personaje 2D a 3D y poder descargar el archivo stl, para imprimirlo en 3D.
+
+Imagen generada porr gemini de mi personaje animado.
+
+<img src="../recursos/imgs/personajeia.jpg" alt="Personaje_gemini" width="200">
+
+---
+Archivo en .STL .
+
+[Porta_herramientas (STL)](recursos/archivos/tarea2def.STL)
+
+---
+Resultado 
+
+<img src="../recursos/imgs/personaje.jpg" alt="Personaje" width="200">
+
+<img src="../recursos/imgs/personaje2.jpg" alt="Personaje" width="200">
+
+---
 
 # Proyecto final.
 ---
