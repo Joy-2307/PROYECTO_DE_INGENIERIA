@@ -150,6 +150,19 @@ Durante está tarea se corto en mdf un diseño que nosotros elegimos y guardamos
 ---
 # impresión 3D con Impresora creality
 ---
-Comenzamos, pensando en un diseño 3D, de algo que no se pudiera hacer utilizando alguna otra maquina de fabricación digital
+Comenzamos, pensando en un diseño 3D, de algo que no se pudiera hacer utilizando alguna otra maquina de fabricación digital, por lo tanto diseñe un portaherramientas (desarmadores y pinzas de punta) para mis clases de electrónica.
+
+Diseño en solidworks.
+
+[Porta_herramientas (SLDPRT)](recursos/archivos/tarea2def.SLDPRT)
+
+---
+Diseño en .stl
+[Porta_herramientas (STL)](recursos/archivos/tarea2def.STL)
+
+---
+Resultado 
+<img src="../recursos/imgs/portaherramientas.jpg" alt="Porta_Herramientas" width="200">
+
 # Proyecto final.
 ---
