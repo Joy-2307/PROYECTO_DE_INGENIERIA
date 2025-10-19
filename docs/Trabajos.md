@@ -208,6 +208,8 @@ Durante esta práctica en el Idit, aprendimos a utilizar las principales mauinas
 <img src="../recursos/imgs/lam4.jpg" alt="lámina4" width="200">
 <img src="../recursos/imgs/lam5.jpg" alt="lámina5" width="200">
 
+[Videos  de Práctica](https://iberopuebla-my.sharepoint.com/:f:/g/personal/203563_iberopuebla_mx/Euk87upthGZCsViAjDyvUCEBU9QCxE72B1g6uAdgVvcOUg?e=iy6fkM)
+
 ---
 
 ##Resultado 
