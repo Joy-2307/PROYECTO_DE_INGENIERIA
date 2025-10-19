@@ -152,17 +152,18 @@ Durante está tarea se corto en mdf un diseño que nosotros elegimos y guardamos
 ---
 Comenzamos, pensando en un diseño 3D, de algo que no se pudiera hacer utilizando alguna otra maquina de fabricación digital, por lo tanto diseñe un portaherramientas (desarmadores y pinzas de punta) para mis clases de electrónica.
 
-Diseño en solidworks.
+## Diseño en solidworks.
 
 [Porta_herramientas (SLDPRT)](recursos/archivos/tarea2def.SLDPRT)
 
 ---
-##Diseño en .stl
+
+## Diseño en .stl
 
 [Porta_herramientas (STL)](recursos/archivos/tarea2def.STL)
 
 ---
-##Resultado 
+## Resultado 
 
 <img src="../recursos/imgs/porta_herramientas.jpg" alt="Porta_Herramientas" width="200">
 
@@ -170,7 +171,7 @@ Diseño en solidworks.
 ## Tomando un curso de Fabricación Digital
 Consistio en tomar en linea un curso acerca de fabricación diguital, para poder contar con mayor conocimiento.
 
-<img src="../recursos/imgs/fabricacion_digital" alt="Fabricación_Digital_Curso" width="200">
+<img src="../recursos/imgs/fabricacion_digital.png" alt="fabricación_digital" width="200">
 
 ---
 
@@ -179,17 +180,17 @@ Consistio en tomar en linea un curso acerca de fabricación diguital, para poder
 ---
 En esta semana, con ayuda de Gemini, le pedimos que generara la imagen animada de un personaje que nosotros quisieramos, sin fondo, para despues con ayuda de la plataforma Tripo 3D, cargar la imagen y asi poder convertir nuestro personaje 2D a 3D y poder descargar el archivo stl, para imprimirlo en 3D.
 
-Imagen generada porr gemini de mi personaje animado.
+## Imagen generada porr gemini de mi personaje animado.
 
-<img src="../recursos/imgs/personajeia.jpg" alt="Personaje_gemini" width="200">
+<img src="../recursos/imgs/personnajeia.jpg" alt="Personaje_gemini" width="200">
 
 ---
-##Archivo en .gcode .
+## Archivo en .gcode .
 
 [Pinguino (gcode)](recursos/archivos/pinguino.gcode)
 
 ---
-##Resultado 
+## Resultado 
 
 <img src="../recursos/imgs/personaje.jpg" alt="Personaje" width="200">
 
@@ -212,7 +213,7 @@ Durante esta práctica en el Idit, aprendimos a utilizar las principales mauinas
 
 ---
 
-##Resultado 
+## Resultado 
 
 <img src="../recursos/imgs/rlam1.jpg" alt="Resultado1" width="200">
 
