@@ -47,22 +47,22 @@ Cada material compartido busca reflejar no solo la práctica técnica, sino tamb
 
 ---
 ## videos 
-<video width="640" height="360" controls>
+<video width="400"  controls>
   <source src="../recursos/imgs/maquinaria1.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
 
-<video width="640" height="360" controls>
+<video width="400"  controls>
   <source src="../recursos/imgs/maquinaria2.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
 
-<video width="640" height="360" controls>
+<video width="400"  controls>
   <source src="../recursos/imgs/maquinaria3.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
 
-<video width="640" height="360" controls>
+<video width="400"  controls>
   <source src="../recursos/imgs/maquinaria5.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
@@ -151,7 +151,7 @@ Durante esta práctica aprendí a utilizar la cortadora láser CNC trabajando co
 
 ---
 ## videos 
-<video width="640" height="360" controls>
+<video width="400"  controls>
   <source src="../recursos/imgs/láseer1.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
@@ -238,27 +238,27 @@ Durante esta práctica en el Idit, aprendimos a utilizar las principales mauinas
 
 ---
 ## videos 
-<video width="640" height="360" controls>
+<video width="400"  controls>
   <source src="../recursos/imgs/MAQUINA1.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
 
-<video width="640" height="360" controls>
+<video width="400"  controls>
   <source src="../recursos/imgs/MAQUINA2.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
 
-<video width="640" height="360" controls>
+<video width="400"  controls>
   <source src="../recursos/imgs/MAQUINA3.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
 
-<video width="640" height="360" controls>
+<video width="400" controls>
   <source src="../recursos/imgs/MAQUINA4.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
 
-<video width="640" height="360" controls>
+<video width="400" controls>
   <source src="../recursos/imgs/YUNKE.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
