@@ -143,13 +143,19 @@ Realizar el trazado de un logo para grabarlo en Láser.
 
 ## aprendiendo a usar la láser
 
+Durante esta práctica aprendí a utilizar la cortadora láser CNC trabajando con MDF de 3 mm; comencé con el diseño digital de la pieza, configuré los parámetros de corte y preparé el material en la máquina. Apliqué las medidas de seguridad necesarias y entendí la importancia de ajustar adecuadamente la potencia y la velocidad para obtener cortes limpios y precisos. Como resultado, logré fabricar correctamente el diseño que había planeado.
+
 <img src="../recursos/imgs/láser1.jpg" alt="Láser1" width="200">
 <img src="../recursos/imgs/láser2.jpg" alt="Láser2" width="200">
 <img src="../recursos/imgs/láser3.jpg" alt="Láser3" width="200">
 
-[Videos y fotos de Práctica](https://iberopuebla-my.sharepoint.com/:f:/g/personal/203563_iberopuebla_mx/Et1bZMslXlZDtDWfIONQtEIBER_9JEzdp8J4uTUvhxBCuA?e=76hREg)
+---
+## videos 
+<video width="640" height="360" controls>
+  <source src="../recursos/imgs/láseer1.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
 
-Durante esta práctica aprendí a utilizar la cortadora láser CNC trabajando con MDF de 3 mm; comencé con el diseño digital de la pieza, configuré los parámetros de corte y preparé el material en la máquina. Apliqué las medidas de seguridad necesarias y entendí la importancia de ajustar adecuadamente la potencia y la velocidad para obtener cortes limpios y precisos. Como resultado, logré fabricar correctamente el diseño que había planeado.
 
 ---
 
@@ -230,8 +236,32 @@ Durante esta práctica en el Idit, aprendimos a utilizar las principales mauinas
 <img src="../recursos/imgs/lam4.jpg" alt="lámina4" width="200">
 <img src="../recursos/imgs/lam5.jpg" alt="lámina5" width="200">
 
-[Videos  de Práctica](https://iberopuebla-my.sharepoint.com/:f:/g/personal/203563_iberopuebla_mx/Euk87upthGZCsViAjDyvUCEBU9QCxE72B1g6uAdgVvcOUg?e=iy6fkM)
+---
+## videos 
+<video width="640" height="360" controls>
+  <source src="../recursos/imgs/MAQUINA1.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
 
+<video width="640" height="360" controls>
+  <source src="../recursos/imgs/MAQUINA2.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="../recursos/imgs/MAQUINA3.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="../recursos/imgs/MAQUINA4.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="../recursos/imgs/YUNKE.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
 ---
 
 ## Resultado 
