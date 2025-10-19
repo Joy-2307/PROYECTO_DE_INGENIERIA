@@ -45,7 +45,28 @@ Primer solido 3D en SolidWorks.
 En esta sección se presentan una serie de videos y fotografías que documentan mi progreso en el aprendizaje y dominio del funcionamiento de diferentes tipos de maquinaria. El objetivo principal es mostrar de manera clara y visual cómo he ido desarrollando mis conocimientos y habilidades tanto en el uso de herramientas para el corte de madera como en el manejo de equipos destinados al corte de metal.
 Cada material compartido busca reflejar no solo la práctica técnica, sino también la comprensión de los procesos de operación, seguridad y mantenimiento que acompañan a estas máquinas. De esta forma, el registro no solo constituye una evidencia de avance personal, sino también un recurso que puede servir como referencia para quienes se inicien en este campo o deseen observar de forma progresiva la manera en que se adquieren y perfeccionan competencias en el trabajo con maquinaria especializada.
 
-[Videos y fotos de Práctica](https://iberopuebla-my.sharepoint.com/:f:/g/personal/203563_iberopuebla_mx/Ep8vzFByT9BBv8lYolmQwG4BLk0pOx4-HzmitzzGhByD8Q?e=fwkn7B)
+---
+## videos 
+<video width="640" height="360" controls>
+  <source src="../recursos/imgs/maquinaria1.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="../recursos/imgs/maquinaria2.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="../recursos/imgs/maquinaria3.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="../recursos/imgs/maquinaria5.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
+
 
 ---
 
