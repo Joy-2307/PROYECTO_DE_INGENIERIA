@@ -157,12 +157,12 @@ Diseño en solidworks.
 [Porta_herramientas (SLDPRT)](recursos/archivos/tarea2def.SLDPRT)
 
 ---
-Diseño en .stl
+##Diseño en .stl
 
 [Porta_herramientas (STL)](recursos/archivos/tarea2def.STL)
 
 ---
-Resultado 
+##Resultado 
 
 <img src="../recursos/imgs/porta_herramientas.jpg" alt="Porta_Herramientas" width="200">
 
@@ -184,12 +184,12 @@ Imagen generada porr gemini de mi personaje animado.
 <img src="../recursos/imgs/personajeia.jpg" alt="Personaje_gemini" width="200">
 
 ---
-Archivo en .gcode .
+##Archivo en .gcode .
 
 [Pinguino (gcode)](recursos/archivos/pinguino.gcode)
 
 ---
-Resultado 
+##Resultado 
 
 <img src="../recursos/imgs/personaje.jpg" alt="Personaje" width="200">
 
@@ -202,6 +202,19 @@ Resultado
 ---
 Durante esta práctica en el Idit, aprendimos a utilizar las principales mauinas y herramientas usadas en la industria cuando se trabaja con lámina, en este caso se trabajó con lámina de acero negro de calibre 22, el resultado de está practica fue aprender el uso correcto de las herramientas (equipo de seguridad, nivelador, tijeras para lámina) y de las máquinas, asi commo replicar de un plano, una pieza hecha con lámina.
 
+<img src="../recursos/imgs/lam1.jpg" alt="lámina1" width="200">
+<img src="../recursos/imgs/lam2.jpg" alt="lámina2" width="200">
+<img src="../recursos/imgs/lam3.jpg" alt="lámina3" width="200">
+<img src="../recursos/imgs/lam4.jpg" alt="lámina4" width="200">
+<img src="../recursos/imgs/lam5.jpg" alt="lámina5" width="200">
+
+---
+
+##Resultado 
+
+<img src="../recursos/imgs/rlam1.jpg" alt="Resultado1" width="200">
+
+<img src="../recursos/imgs/rlam2.jpg" alt="Resultado1" width="200">
 
 ---
 
