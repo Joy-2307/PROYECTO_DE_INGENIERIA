@@ -224,6 +224,40 @@ En esta semana, con ayuda de Gemini, le pedimos que generara la imagen animada d
 <img src="../recursos/imgs/personaje2.jpg" alt="Personaje" width="200">
 
 ---
+## Escáner 3D
+---
+
+También en esta semana aprendimos a escanear objetos 3D, tanto usando un Escáner 3D, como usando nuestra camára de nuestro celular con un programa de fotogrametría.
+
+---
+
+## ¿CUándo Usarías un Escáner 3D en tu vida?
+
+---
+
+Usaría un escáner 3D profesional para proyectos de alta precisión como la ingeniería inversa o la inspección de calidad de componentes críticos, donde se requieren tolerancias estrictas y máximo detalle. En contraste, usaría mi celular con fotogrametría para tareas cotidianas y rápidas donde la precisión es secundaria, como documentar entornos o generar modelos de referencia iniciales. A futuro, el escaneo profesional será clave en el desarrollo de robótica avanzada y la fabricación automatizada, mientras que el escaneo móvil facilitará el mantenimiento predictivo y la integración de la Realidad Aumentada en campo, ofreciendo agilidad y accesibilidad en el flujo de trabajo.
+
+---
+## Escáner por fotogrametría de un objeto cualquiera
+---
+<img src="../recursos/imgs/tenis.png" alt="Tenis" width="200">
+
+[Tenis (STL)](recursos/archivos/Tenis.stl)
+
+---
+## Escáner Profesional Creality (rostro)
+---
+Escaneamos nuestras cara con el uso de un escáner 3D infrarojo, para obtener así nuestra malla de puntos de nuestros rostros
+
+---
+
+<img src="../recursos/imgs/proceso.jpg" alt="Proceso" width="200">
+<img src="../recursos/imgs/cara1.png" alt="Cara1" width="200">
+<img src="../recursos/imgs/cara2.png" alt="Cara2" width="200">
+
+[Rostro (STL)](recursos/archivos/JOY.stl)
+
+---
 # semana 8
 ---
 ## Práctica 2 en el Idit 
