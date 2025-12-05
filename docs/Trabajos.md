@@ -369,13 +369,21 @@ Para este proyecto se realizo una batalla medieval, la cual consistia en que cad
 
 ## archivos y resultados 
 
-<img src="../recursos/imgs/cara3d.jpg" alt="rostro 3d" width="200">
+<img src="../recursos/imgs/cara3d.png" alt="rostro 3d" width="200">
+
+<img src="../recursos/imgs/cara3d2.png" alt="rostro 3d2" width="200">
 
 [cara3d (stl)](recursos/archivos/cara3d.stl)
 
 <img src="../recursos/imgs/muñeco.jpg" alt="muñeco" width="200">
 
-<img src="../recursos/imgs/imgmuñeco.jpg" alt="img_muñeco" width="200">
+<img src="../recursos/imgs/imgmuñeco.png" alt="img_muñeco" width="200">
 
 [muñeco (DXF)](recursos/archivos/muñeco.dxf)
+
+<img src="../recursos/imgs/catapultaymuñeco.jpg" alt="cataoulta y muuñeco" width="200">
+
+[CATAPULTA (ZIP)](recursos/archivos/catapulta.zip)
+
+
 
