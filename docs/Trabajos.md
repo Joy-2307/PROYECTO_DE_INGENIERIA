@@ -314,7 +314,7 @@ Esta tarea consisitió en realizar una caja con lámina de acero negro de calibr
 
 <img src="../recursos/imgs/caja1.jpg" alt="caja1" width="200">
 
-<img src="../recursos/imgs/caja22.jpg" alt="caja2" width="200">
+<img src="../recursos/imgs/caja2.jpg" alt="caja2" width="200">
 
 ---
 
@@ -340,11 +340,27 @@ Para el router realizamos dos trabajos los cuales nos permitieron conocer desde 
 
 ## Archivos y resultados 
 
+matriz copo de nieve 
+
+<img src="../recursos/imgs/matriz.png" alt="Matriz" width="200">
+
 [matriz_completa(SLDPRT)](recursos/archivos/matriz_copo.SLDPRT)
 
-[Rostro (STL)](recursos/archivos/JOY.stl)
+---
 
-[Rostro (STL)](recursos/archivos/JOY.stl)
+Tabla de bienvenida 
+
+<img src="../recursos/imgs/cartel.png" alt="cartel" width="200">
+
+[CÓDIGO_CORTE(nc)](recursos/archivos/corte.nc)
+
+[CÓDIGO_GRABADO(nc)](recursos/archivos/grabado.nc)
+
+[Cartel(crv)](recursos/archivos/cartel.crv)
+
+---
+
+
 
 
 ---
