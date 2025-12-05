@@ -306,5 +306,51 @@ Durante esta práctica en el Idit, aprendimos a utilizar las principales mauinas
 
 ---
 
-# Proyecto final.
+## Tarea semana 8 
+
 ---
+
+Esta tarea consisitió en realizar una caja con lámina de acero negro de calibre 24, con bisagras, esta tarea nos permitió reforzar y aplicar todos los conocimientos adquiridos en la práctica anterior, como lo es el corte, doblez de lámina y soldadura de punto.
+
+---
+
+# Semana 9 
+---
+Durante esta semana aprendimo sobre el router cnc, la cuál es una máquina la cuál forma parte de la fabricación digital y nos permite realizar cortes y grabados, como lo es la madera, aluminio, acrílico, enntre otros, posterior mente tomamos un curso virtual para aprender a usar su software y posteriormente aprender a usarla correctamente.
+
+<img src="../recursos/imgs/rlam2.jpg" alt="Resultado1" width="200">
+
+<video width="400" controls>
+  <source src="../recursos/imgs/YUNKE.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de video.
+</video>
+
+---
+
+## Trabajos relacionados al router 
+
+---
+
+Para el router realizamos dos trabajos los cuales nos permitieron conocer desde el proceso de preparión del archivo y los requerimientos y el tipo de configuración requerida para poder trabajar distintos materiales, en primer lugar realizamos en sólido un molde que podrá ser usado posteriormente como molde para realizar figuras con resina, también realizamos el preparado del archivo para grabar y cortar una tabla de bienvenido a casa, personalizada, mediante la cual aprendimos a seleccionar correctamente las operaciones y las herramientas necesarias para poder utilizar el router.
+
+---
+
+## Archivos y resultados 
+
+---
+
+
+# Proyecto final.
+
+---
+
+Para este proyecto se realizo una batalla medieval, la cual consistia en que cada quien hiciera un muñeco de mdf, cortado y grabado, posteriormente por parejas buscar y crear un arma medieval usando al menos dos métodos de fabricación digital, con el objetivo de tratar de tirar las figuras del equipo contrario, esto nos permitió aplicar gran parte de todo los conocimientos adquiridos en este semestre en la materia de proyectos de ingenieria.
+
+---
+
+## archivos y resultados 
+
+<img src="../recursos/imgs/rlam2.jpg" alt="Resultado1" width="200">
+
+[Rostro (STL)](recursos/archivos/JOY.stl)
+
