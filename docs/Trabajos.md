@@ -361,6 +361,13 @@ Tabla de bienvenida
 
 ---
 
+Curso Router CNC
+
+<img src="../recursos/imgs/cnc.png" alt="cnc" width="200">
+
+---
+
+
 # Proyecto final.
 
 Para este proyecto se realizo una batalla medieval, la cual consistia en que cada quien hiciera un muñeco de mdf, cortado y grabado, posteriormente por parejas buscar y crear un arma medieval usando al menos dos métodos de fabricación digital, con el objetivo de tratar de tirar las figuras del equipo contrario, esto nos permitió aplicar gran parte de todo los conocimientos adquiridos en este semestre en la materia de proyectos de ingenieria.
