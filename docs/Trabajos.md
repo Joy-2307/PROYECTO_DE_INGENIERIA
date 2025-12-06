@@ -378,7 +378,7 @@ Para este proyecto se realizo una batalla medieval, la cual consistia en que cad
 
 <img src="../recursos/imgs/rostro3d.png" alt="rostro 3d" width="200">
 
-<img src="../recursos/imgs/rostro3d2.png" alt="rostro 3d2" width="200">
+<img src="../recursos/imgs/rostro3d2.jpg" alt="rostro 3d2" width="200">
 
 [cara3d (stl)](recursos/archivos/cara3d.stl)
 
