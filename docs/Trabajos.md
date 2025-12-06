@@ -363,7 +363,7 @@ Tabla de bienvenida
 
 Curso Router CNC
 
-<img src="../recursos/imgs/cnc.png" alt="cnc" width="200">
+<img src="../recursos/imgs/cnc.jpg" alt="cnc" width="200">
 
 ---
 
@@ -376,7 +376,7 @@ Para este proyecto se realizo una batalla medieval, la cual consistia en que cad
 
 ## archivos y resultados 
 
-<img src="../recursos/imgs/cara3d.png" alt="rostro 3d" width="200">
+<img src="../recursos/imgs/cara3dp.png" alt="rostro 3d" width="200">
 
 <img src="../recursos/imgs/cara3d2.png" alt="rostro 3d2" width="200">
 
