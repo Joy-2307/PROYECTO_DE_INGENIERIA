@@ -16,7 +16,7 @@
 
 ---
 
-## 💾 Descarga de Archivos CAD por Pieza
+##  Descarga de Archivos CAD por Pieza
 
 <h2 id="dibujo-1">Dibujo 1 Ismael Guerrero</h2>
 <p>Descarga del archivo de la pieza CAD nativa.</p>
