@@ -5,9 +5,9 @@
 
 ---
 
-## 👁️ Visor Global de 40 Planos
+##  Visor Global de 40 Planos
 
-<iframe src="[URL_DEL_PDF_COMPARTIDO_CON_LOS_40_DIBUJOS]" style="width:100%; height:600px; border: 1px solid #ccc;" frameborder="0" allowfullscreen></iframe>
+<iframe src="[https://drive.google.com/file/d/10QIqpOe2T-fnyyB329lgMe0H_2QZO3ud/view?usp=sharing]" style="width:100%; height:600px; border: 1px solid #ccc;" frameborder="0" allowfullscreen></iframe>
 
 ---
 
