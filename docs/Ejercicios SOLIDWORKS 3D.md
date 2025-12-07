@@ -335,11 +335,3 @@
 <p>
     <a href="../recursos/archivos/Dibujo40_Ismael_Guerrero.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
-
----
-
-<p>
-    <strong>Recuerda:</strong> Para que los enlaces de descarga funcionen, debes tener los 40 archivos de SolidWorks con la doble extensión (`.SLDPRT.SLDPRT`) en la carpeta <code>recursos/archivos/</code>.
-</p>
-
-¿Deseas alguna otra modificación o ajuste en el código HTML?
