@@ -360,6 +360,8 @@
 
 <a href="../recursos/archivos/cartel.crv" target="_blank">[Cartel (crv)]</a>
 
+<img src="../recursos/imgs/tabla.png" alt="tabla grabada" style="width: 200px;">
+
 <h3 id="curso-router-cnc">Curso Router CNC</h3>
 
 <img src="../recursos/imgs/cnc.jpg" alt="Certificado o captura de pantalla del curso de Router CNC" style="width: 200px;">
