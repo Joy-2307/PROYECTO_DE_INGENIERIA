@@ -1,18 +1,19 @@
 <h1 id="trabajos-solidworks">Dibujos de Práctica en SolidWorks (Ismael Guerrero)</h1>
 <p>
-    Esta sección documenta una serie de 40 ejercicios de modelado paramétrico. A continuación, se presenta un *único visor de PDF* que contiene todos los planos técnicos y vistas 3D de los dibujos. Debajo del visor, encontrará los enlaces individuales para descargar el archivo de diseño nativo (<strong>.SLDPRT.SLDPRT</strong>) de cada pieza.
+    Esta sección documenta una serie de 40 ejercicios de modelado paramétrico. A continuación, se presenta un *único visor de PDF* que contiene todos los planos técnicos y vistas 3D de los dibujos. Debajo del visor, encontrará los enlaces individuales para descargar el archivo de diseño nativo (<strong>.SLDPRT</strong>) de cada pieza.
 </p>
 
 ---
 
-## Visor Global de 40 Planos
+##  Visor Global de 40 Planos
 
-<iframe 
-    src="https://drive.google.com/file/d/10QIqpOe2T-fnyyB329lgMe0H_2QZO3ud/preview" 
-    style="width:100%; height:600px; border: 1px solid #ccc;" 
-    frameborder="0" 
-    allowfullscreen>
+<iframe 
+    src="https://drive.google.com/file/d/10QIqpOe2T-fnyyB329lgMe0H_2QZO3ud/preview" 
+    style="width:100%; height:600px; border: 1px solid #ccc;" 
+    frameborder="0" 
+    allowfullscreen>
 </iframe>
+
 
 ---
 
