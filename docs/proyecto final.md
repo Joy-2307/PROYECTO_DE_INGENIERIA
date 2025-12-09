@@ -22,6 +22,9 @@
 
 <a href="../recursos/archivos/muñeco.dxf" target="_blank">[muñeco (DXF)]</a>
 
+<img src="../recursos/imgs/P.jpg" alt="Foto de la batalla" style="width: 200px;">
+
+
 <img src="../recursos/imgs/catapultaymuñeco.jpg" alt="Catapulta y muñeco en el campo de batalla medieval" style="width: 200px;">
 
 <a href="../recursos/archivos/catapulta.zip" target="_blank">[CATAPULTA (ZIP)]</a>
