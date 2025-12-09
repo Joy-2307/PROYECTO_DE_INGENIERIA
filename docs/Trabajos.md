@@ -346,9 +346,9 @@
 
 <h3 id="matriz-copo">Matriz Copo de Nieve (Modelado 3D)</h3>
 
-<img src="../recursos/imgs/matriz.png" alt="Modelo 3D de la matriz del copo de nieve para Router CNC" style="width: 200px;">
+<img src="../recursos/imgs/matriz_completa_def.png" alt="Modelo 3D de la matriz del copo de nieve para Router CNC" style="width: 200px;">
 
-<a href="../recursos/archivos/matriz_copo.SLDPRT" target="_blank">[matriz_completa (SLDPRT)]</a>
+<a href="../recursos/archivos/matriz_completa_def.SLDPRT" target="_blank">[matriz_completa (SLDPRT)]</a>
 
 <h3 id="tabla-bienvenida">Tabla de Bienvenida (Corte y Grabado 2.5D)</h3>
 
