@@ -5,7 +5,7 @@
 
 ---
 
-##  Visor Global de 40 Planos
+## 🖼️ Visor Global de 40 Planos
 
 <iframe 
     src="https://drive.google.com/file/d/10QIqpOe2T-fnyyB329lgMe0H_2QZO3ud/preview" 
@@ -16,7 +16,7 @@
 
 ---
 
-##  Descarga de Archivos CAD por Pieza
+## 💾 Descarga de Archivos CAD por Pieza
 
 <h2 id="dibujo-1">Dibujo 1 Ismael Guerrero</h2>
 <p>Descarga del archivo de la pieza CAD nativa.</p>
@@ -24,7 +24,7 @@
     <a href="../recursos/archivos/EJERCICIO1JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s1.png" alt="Vista del Dibujo 1">
+    <img src="../recursos/imgs/s1.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -34,7 +34,7 @@
     <a href="../recursos/archivos/EJERCICIO2JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s2.png" alt="Vista del Dibujo 2">
+    <img src="../recursos/imgs/s2.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -44,7 +44,7 @@
     <a href="../recursos/archivos/EJERCICIO3JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s3.png" alt="Vista del Dibujo 3">
+    <img src="../recursos/imgs/s3.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -54,7 +54,7 @@
     <a href="../recursos/archivos/EJERCICIO4JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s4.png" alt="Vista del Dibujo 4">
+    <img src="../recursos/imgs/s4.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -64,7 +64,7 @@
     <a href="../recursos/archivos/EJERCICIO5JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s5.png" alt="Vista del Dibujo 5">
+    <img src="../recursos/imgs/s5.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -74,7 +74,7 @@
     <a href="../recursos/archivos/EJERCICIO6JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s6.png" alt="Vista del Dibujo 6">
+    <img src="../recursos/imgs/s6.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -84,7 +84,7 @@
     <a href="../recursos/archivos/EJERCICIO7JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s7.png" alt="Vista del Dibujo 7">
+    <img src="../recursos/imgs/s7.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -94,7 +94,7 @@
     <a href="../recursos/archivos/EJERCICIO8JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s8.png" alt="Vista del Dibujo 8">
+    <img src="../recursos/imgs/s8.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -104,7 +104,7 @@
     <a href="../recursos/archivos/EJERCICIO9JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s9.png" alt="Vista del Dibujo 9">
+    <img src="../recursos/imgs/s9.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -114,7 +114,7 @@
     <a href="../recursos/archivos/EJERCICIO10JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s10.png" alt="Vista del Dibujo 10">
+    <img src="../recursos/imgs/s10.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -124,7 +124,7 @@
     <a href="../recursos/archivos/EJERCICIO11JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s11.png" alt="Vista del Dibujo 11">
+    <img src="../recursos/imgs/s11.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -134,7 +134,7 @@
     <a href="../recursos/archivos/EJERCICIO12JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s12.png" alt="Vista del Dibujo 12">
+    <img src="../recursos/imgs/s12.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -144,7 +144,7 @@
     <a href="../recursos/archivos/EJERCICIO13JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s13.png" alt="Vista del Dibujo 13">
+    <img src="../recursos/imgs/s13.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -154,7 +154,7 @@
     <a href="../recursos/archivos/EJERCICIO14JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s14.png" alt="Vista del Dibujo 14">
+    <img src="../recursos/imgs/s14.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -164,7 +164,7 @@
     <a href="../recursos/archivos/EJERCICIO15JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s15.png" alt="Vista del Dibujo 15">
+    <img src="../recursos/imgs/s15.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -174,7 +174,7 @@
     <a href="../recursos/archivos/EJERCICIO16JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s16.png" alt="Vista del Dibujo 16">
+    <img src="../recursos/imgs/s16.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -184,7 +184,7 @@
     <a href="../recursos/archivos/EJERCICIO17JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s17.png" alt="Vista del Dibujo 17">
+    <img src="../recursos/imgs/s17.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -194,7 +194,7 @@
     <a href="../recursos/archivos/EJERCICIO18JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s18.png" alt="Vista del Dibujo 18">
+    <img src="../recursos/imgs/s18.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -204,7 +204,7 @@
     <a href="../recursos/archivos/EJERCICIO19JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s19.png" alt="Vista del Dibujo 19">
+    <img src="../recursos/imgs/s19.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -214,7 +214,7 @@
     <a href="../recursos/archivos/EJERCICIO20JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s20.png" alt="Vista del Dibujo 20">
+    <img src="../recursos/imgs/s20.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 <h2 id="dibujo-22">Dibujo 22 Ismael Guerrero</h2>
@@ -223,7 +223,7 @@
     <a href="../recursos/archivos/EJERCICIO22JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s22.png" alt="Vista del Dibujo 22">
+    <img src="../recursos/imgs/s22.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -233,7 +233,7 @@
     <a href="../recursos/archivos/EJERCICIO23JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s23.png" alt="Vista del Dibujo 23">
+    <img src="../recursos/imgs/s23.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -243,7 +243,7 @@
     <a href="../recursos/archivos/EJERCICIO24JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s24.png" alt="Vista del Dibujo 24">
+    <img src="../recursos/imgs/s24.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -253,7 +253,7 @@
     <a href="../recursos/archivos/EJERCICIO25JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s25.png" alt="Vista del Dibujo 25">
+    <img src="../recursos/imgs/s25.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -263,7 +263,7 @@
     <a href="../recursos/archivos/EJERCICIO26JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s26.png" alt="Vista del Dibujo 26">
+    <img src="../recursos/imgs/s26.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -273,7 +273,7 @@
     <a href="../recursos/archivos/EJERCICIO27JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s27.png" alt="Vista del Dibujo 27">
+    <img src="../recursos/imgs/s27.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -283,7 +283,7 @@
     <a href="../recursos/archivos/EJERCICIO28JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s28.png" alt="Vista del Dibujo 28">
+    <img src="../recursos/imgs/s28.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 <h2 id="dibujo-30">Dibujo 30 Ismael Guerrero</h2>
@@ -292,7 +292,7 @@
     <a href="../recursos/archivos/EJERCICIO30JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s30.png" alt="Vista del Dibujo 30">
+    <img src="../recursos/imgs/s30.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -302,7 +302,7 @@
     <a href="../recursos/archivos/EJERCICIO31JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s31.png" alt="Vista del Dibujo 31">
+    <img src="../recursos/imgs/s31.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -312,7 +312,7 @@
     <a href="../recursos/archivos/EJERCICIO32JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s32.png" alt="Vista del Dibujo 32">
+    <img src="../recursos/imgs/s32.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -322,7 +322,7 @@
     <a href="../recursos/archivos/EJERCICIO33JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s33.png" alt="Vista del Dibujo 33">
+    <img src="../recursos/imgs/s33.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -332,7 +332,7 @@
     <a href="../recursos/archivos/EJERCICIO34JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s34.png" alt="Vista del Dibujo 34">
+    <img src="../recursos/imgs/s34.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -342,7 +342,7 @@
     <a href="../recursos/archivos/EJERCICIO35JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s35.png" alt="Vista del Dibujo 35">
+    <img src="../recursos/imgs/s35.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -352,7 +352,7 @@
     <a href="../recursos/archivos/EJERCICIO36JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s36.png" alt="Vista del Dibujo 36">
+    <img src="../recursos/imgs/s36.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 
@@ -362,7 +362,7 @@
     <a href="../recursos/archivos/EJERCICIO37JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s37.png" alt="Vista del Dibujo 37">
+    <img src="../recursos/imgs/s37.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
 ---
 <h2 id="dibujo-40">Dibujo 40 Ismael Guerrero</h2>
@@ -371,5 +371,5 @@
     <a href="../recursos/archivos/EJERCICIO40JIGR.SLDPRT.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 <div class="imagen-ejercicio">
-    <img src="s40.png" alt="Vista del Dibujo 40">
+    <img src="../recursos/imgs/s40.png" alt="IMAGEN DEL EJERCICIO" style="width: 200px;">
 </div>
